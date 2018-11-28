@@ -1,4 +1,4 @@
-# Clusters_Leaflet
+# Clusters in Leaflet
 
 To run this file, download Clusters.R and dummy_data.csv files and place them in the same driectory to run it.
 
