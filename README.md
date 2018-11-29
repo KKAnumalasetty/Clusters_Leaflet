@@ -1,8 +1,8 @@
 # Clusters in Leaflet
+This visualization will help you identify clusters of vendors available. For instance, it shows the number of vendors available in California region vs New York region.
+To run this file, download Clusters.R and dummy_data.csv files and place them in the same directory to run it.
 
-To run this file, download Clusters.R and dummy_data.csv files and place them in the same driectory to run it.
-
-Once you run this r script, you should be able to see leaflet map with clusters as shown in Image-1 below. These clusters can be broken down by double clicking on that cluster and/or zoom-in to understand the details. Addtionally, once you zoom-in to a city level, then user can interact with that city by clicking on the pin and a popup will show more details about the city such as sate, rank and population.
+Once you run this r script, you should be able to see leaflet map with clusters as shown in Image-1 below. These clusters can be broken down by double clicking on that cluster and/or zoom-in to understand the details. Additionally, once you zoom-in to a city level, then user can interact with that city by clicking on the pin and a popup will show more details about the city such as sate, rank and population.
 
 
 Output:
